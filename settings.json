@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "SHADOW BOT",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "SHADOWBOT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "MCOFLEGACY.aternos.me",
-  "port": 60305,
+    "ip": "serveroflegacy.falixsrv.me",
+  "port": 20647,
     "version": "1.21.1"
   },
   "position": {
